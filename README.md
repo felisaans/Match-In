@@ -17,7 +17,7 @@ Sistem informasi (MIS) + sistem pendukung keputusan (DSS) berbasis metode **SAW 
 - **Frontend:** HTML, Tailwind CSS, JavaScript
 - **Backend:** PHP (PDO)
 - **Database:** MySQL
-- **Server:** XAMPP (Apache + MySQL)
+- **Server:** Local (Apache + MySQL)
 
 ## Instalasi
 
