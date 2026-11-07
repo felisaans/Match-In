@@ -1,0 +1,12 @@
+{
+  "name": "matchin",
+  "version": "1.0.0",
+  "description": "Sistem Informasi Matching Partner Tugas Mahasiswa dengan metode SAW",
+  "scripts": {
+    "dev": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/output.css --watch",
+    "build": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/output.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}

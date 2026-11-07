@@ -1,0 +1,5 @@
+# Samakan akhir baris agar tidak muncul peringatan CRLF/LF
+* text=auto
+*.woff2 binary
+*.png binary
+*.jpg binary

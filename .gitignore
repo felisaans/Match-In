@@ -1,0 +1,15 @@
+# Dependensi / Dependencies (install ulang dengan: npm install)
+node_modules/
+
+# File arsip & cadangan / Archives & backups
+*.zip
+
+# Kredensial lokal / Local credentials
+.env
+.env.*
+
+# File sistem & editor / OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
